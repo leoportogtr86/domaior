@@ -1,0 +1,22 @@
+img{
+
+    width: 300px;
+    padding: 0;
+    
+}
+
+body{
+
+    background-color: #222;
+}
+
+
+.carousel-control-prev-icon{
+
+    color: red;
+}
+
+p{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
